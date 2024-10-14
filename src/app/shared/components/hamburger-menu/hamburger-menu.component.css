@@ -1,0 +1,9 @@
+.sidenav {
+    width: 250px;
+  }
+  
+  @media (min-width: 768px) {
+    .sidenav {
+      display: none;
+    }
+  }
